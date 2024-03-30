@@ -3,7 +3,7 @@
 I am currently a third-year software engineering student at the Polytechnic Institute of Setúbal. My passion for coding knows no bounds—whether it involves building a project from scratch or enhancing the efficiency of an existing one. Outside of my academic pursuits, I enjoy staying active through exercise, exploring new destinations through travel, and expanding my knowledge by immersing myself in books.
 
 <details>
-    <summary><h4>🤓Ludef4r's Coding Journey </h4></summary>
+    <summary><h3>🤓Ludef4r's Coding Journey </h3></summary>
     My journey into the world of coding began at university, where I quickly discovered my passion for it. 
     My initial year had its challenges, with a few stumbles along the way, but it set the stage for a remarkable transformation. From my second year onward, I dedicated myself to mastery and growth. I expanded my programming language repertoire, enhancing my proficiency in familiar languages while diving into new ones. My exploration didn't stop there; I ventured into JavaScript, Dart, and other technologies, continually broadening my skills.
     This period of intense learning wasn't confined to academics alone. I embraced a healthier lifestyle, incorporating regular exercise, engaging more with literature, and forging stronger connections with peers. These changes brought a new balance to my life, fueling my progress in and out of the classroom.
@@ -12,9 +12,9 @@ I am currently a third-year software engineering student at the Polytechnic Inst
 
 ---
 
-### Skills
+## Skills
 
-#### 💻 Languages
+### 💻 Languages
 
 <img align="left" alt="C logo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
@@ -36,7 +36,10 @@ I am currently a third-year software engineering student at the Polytechnic Inst
 
 <br />
 
-#### ⚙️ Frameworks
+<div align="left" style="display:flex; justify-content:space-between; width: 100%; margin: 0px;">
+<div>
+
+### ⚙️ Frameworks
 
 <img align="left" alt="Node logo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 
@@ -49,18 +52,24 @@ I am currently a third-year software engineering student at the Polytechnic Inst
 <img align="left" alt="Firebase logo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 
 <br />
+</div>
 
-#### ⛏️ Tools
+<div>
+    
+### ⛏️ Tools
 
 <img align="left" alt="Neovim logo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
+
+<img align="left" alt="VSCode logo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
 <img align="left" alt="Git logo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 <img align="left" alt="Linux logo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
-<br />
+</div>
+</div>
 
-#
+---
 
 ### Contact
 
@@ -72,12 +81,8 @@ I am currently a third-year software engineering student at the Polytechnic Inst
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ludef4r Instagram" width="30px" style="padding-right:10px;">
 </a>
 
-<br />
-
 #
 
-#### Ludef4r's Github stats
+## Ludef4r's Github stats
 
 ![Ludef4r's Github stats](https://github-readme-streak-stats.herokuapp.com/?user=ludef4r&theme=dark&hide_border=false)
-
-<br/>
