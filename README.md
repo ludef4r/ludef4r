@@ -1,6 +1,6 @@
 # Ludef4r
 
-<img background="transparent" align="right" width="50%" alt="Coding" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img background="transparent" align="right" width="25%" alt="Coding" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="justify" width="60%">
 I am currently a third-year software engineering student at the Polytechnic Institute of Setúbal. My passion for coding knows no bounds—whether it involves building a project from scratch or enhancing the efficiency of an existing one. Outside of my academic pursuits, I enjoy staying active through exercise, exploring new destinations through travel, and expanding my knowledge by immersing myself in books.
