@@ -69,6 +69,8 @@ I am currently a third-year software engineering student at the Polytechnic Inst
 </div>
 </div>
 
+<br />
+
 ---
 
 ### Contact
