@@ -1,13 +1,19 @@
 # Ludef4r
 
+<img align="right" width="35%" alt="Coding" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+
+<p align="justify">
 I am currently a third-year software engineering student at the Polytechnic Institute of Setúbal. My passion for coding knows no bounds—whether it involves building a project from scratch or enhancing the efficiency of an existing one. Outside of my academic pursuits, I enjoy staying active through exercise, exploring new destinations through travel, and expanding my knowledge by immersing myself in books.
+</p>
 
 <details>
     <summary><h3>🤓Ludef4r's Coding Journey </h3></summary>
+    <p align="justify">
     My journey into the world of coding began at university, where I quickly discovered my passion for it. 
     My initial year had its challenges, with a few stumbles along the way, but it set the stage for a remarkable transformation. From my second year onward, I dedicated myself to mastery and growth. I expanded my programming language repertoire, enhancing my proficiency in familiar languages while diving into new ones. My exploration didn't stop there; I ventured into JavaScript, Dart, and other technologies, continually broadening my skills.
     This period of intense learning wasn't confined to academics alone. I embraced a healthier lifestyle, incorporating regular exercise, engaging more with literature, and forging stronger connections with peers. These changes brought a new balance to my life, fueling my progress in and out of the classroom.
     Now, in my third year, my journey has taken an exciting turn towards artificial intelligence, a field that has captivated my imagination and ambition. Additionally, I've embraced the Linux environment, appreciating its versatility and power for development work. This evolving journey has not only shaped my technical abilities but also instilled a deep passion for technology's potential to transform the world.
+    </p>
 </details>
 
 ---
