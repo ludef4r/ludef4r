@@ -64,12 +64,12 @@ I am currently a third-year software engineering student at the Polytechnic Inst
 
 ### Contact
 
-<a align="left" style="padding-right:10px;" href="www.linkedin.com/in/luisfariamartins" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ludef4r Linkedin" width="30px">
+<a align="left" style="padding-right:10px;" href="https://www.linkedin.com/in/luisfariamartins" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ludef4r Linkedin" width="30px" style="padding-right:10px;">
 </a>
 
 <a align="left" style="padding-right:10px;" href="https://instagram.com/luis.faria.martins" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ludef4r Instagram" width="30px">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ludef4r Instagram" width="30px" style="padding-right:10px;">
 </a>
 
 <br />
